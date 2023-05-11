@@ -46,7 +46,11 @@ realizuoti su Cisco Packet Tracer MTK kompiuterių tinklą.
 * 300 vietų
 * Čia visur turi veikti bevielis tinklas ir internetas, galima naudoti keletą stotelių). 
 
-** Pastaba. Išmaniųjų technologijų mokymo centre papildomai turi būti įrengti dūmų, CO2, CO, judesio aptikimo davikliai, o elektronikos dirbtuvėse - temperatūros monitorius bei termostatas. Visi šie įrenginiai turi būti prijungti prie registracijos serverio, kuris įrengtas budėtojų ir apsaugos kambaryje. **
+**Pastaba. Išmaniųjų technologijų mokymo centre papildomai turi būti įrengti dūmų, CO2, CO, judesio aptikimo davikliai, o elektronikos dirbtuvėse - temperatūros monitorius bei termostatas. Visi šie įrenginiai turi būti prijungti prie registracijos serverio, kuris įrengtas budėtojų ir apsaugos kambaryje.**
+
+### Duotas IP ###
+* 187.18.5.0/24
+* 2028:17c:ced1::/48
 
 ![image](https://github.com/Deminalla/Computer-Network/assets/65849358/0f9ebcc9-9ff4-4026-9856-9daa8e1e021a)
 
