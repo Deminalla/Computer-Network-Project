@@ -5,7 +5,7 @@ Jūsų darbas:
 pateikti MTK kompiuterių tinklo projektą (dokumentą);
 realizuoti su Cisco Packet Tracer MTK kompiuterių tinklą.
 
-### Projektinio tinklo reikalavimai: ###
+## Projektinio tinklo reikalavimai: ##
 * turi būti fizinė ir loginė kompiuterių tinklo schema;
 * suplanuoti optimalią reikiamą tinklinę įrangą;
 * suplanuoti reikalingus serverinius resursus, bei jų prijungimą prie tinklo;
@@ -21,7 +21,7 @@ realizuoti su Cisco Packet Tracer MTK kompiuterių tinklą.
 * ACL priemonėmis apribokite pasirinktų centrų ar auditorijų prieigą prie kitų resursų;
 * sukurtas tinklas turi būti lengvai plečiamas, jeigu MTK po metų įsigis papildomų patalpų;
 
-### Suplanuotų MTK patalpų ir kompiuterinės įrangos aprašymas: ###
+## Suplanuotų MTK patalpų ir kompiuterinės įrangos aprašymas: ##
 
 #### Pagrindinis pastatas (MTK) ####
 * Pirmas aukštas (dydis 30*50 metrų)
@@ -49,3 +49,6 @@ realizuoti su Cisco Packet Tracer MTK kompiuterių tinklą.
 ** Pastaba. Išmaniųjų technologijų mokymo centre papildomai turi būti įrengti dūmų, CO2, CO, judesio aptikimo davikliai, o elektronikos dirbtuvėse - temperatūros monitorius bei termostatas. Visi šie įrenginiai turi būti prijungti prie registracijos serverio, kuris įrengtas budėtojų ir apsaugos kambaryje. **
 
 ![image](https://github.com/Deminalla/Computer-Network/assets/65849358/0f9ebcc9-9ff4-4026-9856-9daa8e1e021a)
+
+## Extra task ##
+* Add a siren, which starts going off after the temperature rises to a specific point. Use MCU and write some code in it.
